@@ -12,7 +12,7 @@ A production-ready Competitive Programming management platform for mentors and s
 ### Clone the Repository
 ```bash
 git clone https://github.com/tanu9979/cp_helper
-cd new1
+cd cp_helper
 ```
 
 ### Backend Setup
