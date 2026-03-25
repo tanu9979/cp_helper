@@ -5,7 +5,7 @@ A production-ready Competitive Programming management platform for mentors and s
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Node.js (v16+)
+- Node.js (v18+)
 - MongoDB Atlas account
 - Git
 
@@ -62,7 +62,7 @@ cd cp_helper
 ## 📁 Project Structure
 
 ```
-new1/
+cp_helper/
 ├── backend/              # Node.js + Express API
 │   ├── config/          # Database configuration
 │   ├── controllers/     # Business logic
